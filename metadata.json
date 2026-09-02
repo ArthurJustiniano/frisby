@@ -1,0 +1,6 @@
+{
+  "name": "Frisby",
+  "description": "Calculadora de notas ponderadas com suporte a temas claro e escuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
